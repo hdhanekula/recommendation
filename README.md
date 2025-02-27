@@ -1,5 +1,4 @@
 # recommendation
-#  Summary of Movie Recommendations & Analysis for User 2
 
 
 1. Bar Chart of Movie Ratings:
